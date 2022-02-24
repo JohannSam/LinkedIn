@@ -1,0 +1,65 @@
+.myacc{
+    float: right; 
+} 
+
+.profile img{
+    border-radius: 50%; 
+} 
+
+.profile{
+    text-align: center;
+} 
+
+.interest{
+    text-align: center;
+} 
+
+.interest span {
+    font-size: 7.7px;
+} 
+
+.like-btn button {
+    border: 1px solid grey;
+}
+
+.profile2 img{
+    border-radius: 50%; 
+    height: 100px;
+    width: 90px;
+} 
+
+.profile2{
+    text-align: center;
+    height: 130px;
+    width: 10px;
+    margin-bottom: 10px;
+} 
+
+.content{
+    height: fit-content;
+}
+
+.content h3 {
+    line-height: 30.5px;
+} 
+
+.events img{
+    border-radius: 50%; 
+    height: 100px;
+    width: 90px
+}
+
+.events{
+    text-align: center;
+} 
+
+.end{
+    text-align: center;
+    background-color: gray;
+    margin-top: 100px;
+    padding-bottom: 25px;
+}
+
+.hyperlinks{
+    text-align: center;
+}
